@@ -99,11 +99,13 @@ ion-icon{
     width: 30 px;
     font-size: 20px;
     color: #d10303;
+    text-align: center;
 }
 
 .info ul li span {
     color: #000000;
     font-weight: 200;
+    text-align: center;
 }
 
 .section {
