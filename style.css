@@ -40,6 +40,10 @@ body {
     text-align: center;
 
 }
+ion-icon{
+    color: red;
+    font-size: 12px
+}
 
 .profileText {
     position: relative;
